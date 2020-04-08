@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/ll_admin/.pyenv/versions/3.7.3/bin/python3.7",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": false
+}
